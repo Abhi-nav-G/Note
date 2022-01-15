@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+}
+#form{
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+#form1{
+    
+    width: 75%;
+    margin: auto;
+}
+#text{
+    height: 450px;
+}
+#main-notes{
+    margin: auto;
+    width: 76%;
+    text-align: center;
+}
